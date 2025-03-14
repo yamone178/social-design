@@ -12,28 +12,28 @@ const Posts = () => {
       const fetchData = async () => {
         try {
          
-            setIsLoading(true); 
+            // setIsLoading(true); 
          
          
           const response = await fetch("http://localhost:3000/posts");
           const data = await response.json();
           setPosts(data);
        
-            setIsLoading(false); 
+            // setIsLoading(false); 
 
        
         } catch (error) {
           console.error("Error fetching data:", error);
-          setIsLoading(false); 
+          // setIsLoading(false); 
         }
       };
   
       fetchData();
       }, []);
 
-      if (isLoading) {
-        return <SkeletonLoader />;
-      }
+      // if (isLoading) {
+      //   return <SkeletonLoader />;
+      // }
 
   return (
     <div className="flex flex-col">

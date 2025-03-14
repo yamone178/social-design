@@ -18,10 +18,10 @@ const Posts = () => {
           const response = await fetch("http://localhost:3000/posts");
           const data = await response.json();
           setPosts(data);
-          setTimeout(()=>{
+       
             setIsLoading(false); 
 
-          },1500)
+       
         } catch (error) {
           console.error("Error fetching data:", error);
           setIsLoading(false); 

@@ -1,0 +1,22 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+
+:root {
+  --foreground-rgb: #2C3E50;
+  --background-rgb: #FFFFFF;
+}
+
+body {
+  /* color: rgb(var(--foreground-rgb)); */
+  background: rgb(var(--background-rgb));
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+   /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

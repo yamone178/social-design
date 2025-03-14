@@ -1,0 +1,99 @@
+{
+    "posts": [
+        {
+            " id": 1,
+             "user": {
+               "name": "Jane Doe",
+               "verified": true
+             },
+             "time": "4m",
+             "content":
+               "Lorem ipsum dolor sit amet consectetur. Ipsum fermentum neque sollicitudin tempor tortor cursus ultricies et. Id tortor fames nunc nisi congue suscipit.",
+             "likes": 8,
+             "comments": 1,
+             "shares": 3,
+             "improve": 32,
+             "hasMedia": false,
+             "type": "content",
+             "images": []
+           },
+      
+          {
+           " id": 2,
+            "user": {
+              "name": "Jane Doe",
+              "verified": false
+            },
+            "time": "4m",
+            "content":
+              "Lorem ipsum dolor sit amet consectetur. Ipsum fermentum neque sollicitudin tempor tortor cursus ultricies et. Id tortor fames nunc nisi congue suscipit.",
+            "likes": 8,
+            "comments": 1,
+            "shares": 3,
+            "improve": 32,
+            "hasMedia": true,
+            "type": "content",
+            "images": ["./src/assets/images/vdgp.png"]
+          },
+        
+          {
+            " id": 4,
+             "user": {
+               "name": "Jane Doe",
+               "verified": true
+             },
+             "time": "4m",
+             "content":  "UI Designဆွဲတယ်ဆိုတာ Productတစ်ခုရဲ့ Interfaceကို ကြည့်လို့လှရုံသက်သက် ဆွဲရတာမျိုးမဟုတ်ဘဲ UX Research, User Personna, User Flow and Journey Mapping စတဲ့ UX Design Process အဆင့်ဆင့်ကရလာတဲ့ resultတွေ၊ Decision တွေပေါ်မှာအခြေခံပြီးမှ Productကိုအ...",
+             "likes": 12,
+             "comments": 0,
+             "shares": 3,
+             "improve": 32,
+             "hasMedia": true,
+             "type": "content",
+             "images": ["./src/assets/images/img2-1.png", "./src/assets/images/img2-2.png", "./src/assets/images/img2-1.png" ],
+              "flicked" : true             
+ 
+           },
+           {
+            " id": 5,
+             "user": {
+               "name": "Jane Doe",
+               "verified": true
+             },
+             "time": "4m",
+             "content":  "Unleash power and creativity with the iPad Pro M4. Redefine what's possible—get yours today!",
+             "likes": 12,
+             "comments": 0,
+             "shares": 3,
+             "improve": 32,
+             "hasMedia": true,
+             "type": "ads",
+             "images": ["./src/assets/images/img3-1.png", "./src/assets/images/img3-2.png", "./src/assets/images/img3-3.png" ],
+            "ads":{
+              "content": "iPad Pro 13-Inch (M4): Built for Apple Intelligence, Ultra Retina XDR Display, 256GB, 12MP Front/Back Camera, LiDAR Scanner, Wi-Fi 6E, Face ID, All-Day Battery Life — Space Black",
+              "price": "$ 1299.00"
+            }
+
+ 
+           },
+           {
+            " id": 6,
+             "user": {
+               "name": "Jane Doe",
+               "verified": true
+             },
+             "time": "4m",
+             "content":  "Unleash power and creativity with the iPad Pro M4. Redefine what's possible—get yours today!",
+             "likes": 12,
+             "comments": 0,
+             "shares": 3,
+             "improve": 32,
+             "hasMedia": true,
+             "type": "content",
+             "images": ["./src/assets/images/img4-1.png", "./src/assets/images/img4-2.png"]
+            
+
+ 
+           }
+    ]
+}

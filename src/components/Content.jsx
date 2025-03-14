@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react'
 import Janedoe from '../assets/images/JaneDoe.png'
-import PostFooter from './postFooter'
+import PostFooter from './PostFooter'
 import chat from '../assets/images/ChatCircleDots.png'
 import imggp from '../assets/icons/Group 216.png'
 

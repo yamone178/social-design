@@ -1,7 +1,7 @@
 import React from 'react'
 import Janedoe from '../assets/images/JaneDoe.png'
-import PostFooter from './postFooter'
 import note from '../assets/icons/Note.png'
+import PostFooter from './PostFooter'
 
 
 const Article = ({ post }) => {

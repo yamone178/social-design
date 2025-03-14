@@ -33,7 +33,7 @@
             "improve": 32,
             "hasMedia": true,
             "type": "content",
-            "images": ["./src/assets/images/vdgp.png"]
+            "images": ["./public/assets/images/vdgp.png"]
           },
         
           {
@@ -50,7 +50,7 @@
              "improve": 32,
              "hasMedia": true,
              "type": "content",
-             "images": ["./src/assets/images/img2-1.png", "./src/assets/images/img2-2.png", "./src/assets/images/img2-1.png" ],
+             "images": ["./public/assets/images/img2-1.png", "./public/assets/images/img2-2.png", "./public/assets/images/img2-1.png" ],
               "flicked" : true             
  
            },
@@ -68,7 +68,7 @@
              "improve": 32,
              "hasMedia": true,
              "type": "ads",
-             "images": ["./src/assets/images/img3-1.png", "./src/assets/images/img3-2.png", "./src/assets/images/img3-3.png" ],
+             "images": ["../public/assets/images/img3-1.png", "./public/assets/images/img3-2.png", "./public/assets/images/img3-3.png" ],
             "ads":{
               "content": "iPad Pro 13-Inch (M4): Built for Apple Intelligence, Ultra Retina XDR Display, 256GB, 12MP Front/Back Camera, LiDAR Scanner, Wi-Fi 6E, Face ID, All-Day Battery Life — Space Black",
               "price": "$ 1299.00"
@@ -90,7 +90,7 @@
              "improve": 32,
              "hasMedia": true,
              "type": "content",
-             "images": ["./src/assets/images/img4-1.png", "./src/assets/images/img4-2.png"]
+             "images": ["./public/assets/images/img4-1.png", "./public/assets/images/img4-2.png"]
             
 
  

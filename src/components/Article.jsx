@@ -1,6 +1,6 @@
 import React from 'react'
-import Janedoe from '../assets/images/JaneDoe.png'
-import note from '../assets/icons/Note.png'
+import Janedoe from '../../public/assets/images/JaneDoe.png'
+import note from '../../public/assets/icons/Note.png'
 import PostFooter from './PostFooter'
 
 

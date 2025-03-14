@@ -1,8 +1,8 @@
 import React, { useRef, useState } from 'react'
-import Janedoe from '../assets/images/JaneDoe.png'
+import Janedoe from '../../public/assets/images/JaneDoe.png'
 import PostFooter from './PostFooter'
-import chat from '../assets/images/ChatCircleDots.png'
-import imggp from '../assets/icons/Group 216.png'
+import chat from '../../public/assets/images/ChatCircleDots.png'
+import imggp from '../../public/assets/icons/Group 216.png'
 
 
 const Content = ({post}) => {

@@ -1,12 +1,12 @@
 import React from 'react'
-import jondoe from '../assets/images/JohnDoe.png'
-import pic from '../assets/icons/ImageSquare.png'
-import gif from '../assets/icons/Gif.png'
-import poll from '../assets/icons/Poll.png'
-import location from '../assets/icons/MapPin.png'
-import bag from '../assets/icons/Handbag.png'
-import note from '../assets/icons/Note.png'
-import blueMark from '../assets/icons/Group 22.png'
+import jondoe from '../../public/assets/images/JohnDoe.png'
+import pic from '../../public/assets/icons/ImageSquare.png'
+import gif from '../../public/assets/icons/Gif.png'
+import poll from '../../public/assets/icons/Poll.png'
+import location from '../../public/assets/icons/MapPin.png'
+import bag from '../../public/assets/icons/Handbag.png'
+import note from '../../public/assets/icons/Note.png'
+import blueMark from '../../public/assets/icons/Group 22.png'
 
 
 const CreatePost = () => {

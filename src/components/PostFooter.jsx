@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
-import comment from '../assets/icons/ChatCentered.png'
-import heart from '../assets/icons/Heart.png'
-import heartFill from '../assets/icons/Group 219.png'
-import handpoint from '../assets/icons/HandPointing.png'
-import improve from '../assets/icons/TrendUp (1).png'
+import comment from '../../public/assets/icons/ChatCentered.png'
+import heart from '../../public/assets/icons/Heart.png'
+import heartFill from '../../public/assets/icons/Group 219.png'
+import handpoint from '../../public/assets/icons/HandPointing.png'
+import improve from '../../public/assets/icons/TrendUp (1).png'
 
 const PostFooter = ({post}) => {
         const [liked, setLiked] = useState(false)
